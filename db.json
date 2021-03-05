@@ -1,26 +1,24 @@
 {
-	issues:
-  [
-    {
-      "id": 1,
-      "title": "Ram",
-      "description": "React is simple"
-			"status": "Open"
+	"issues": [{
+			"id": 1,
+			"title": "Ram",
+			"description": "React is simple",
+			"status": "Open",
 			"severity": "Major"
-    },
-    {
-      "id": 2,
-      "title": "Ram",
-      "description": "React is simple"
-			"status": "In Progress"
-			"severity": "Minor"
-    },
+		},
 		{
-      "id": 3,
-      "title": "Ram",
-      "description": "React is simple"
-			"status": "Closed"
+			"id": 2,
+			"title": "Ram",
+			"description": "React is simple",
+			"status": "In Progress",
+			"severity": "Minor"
+		},
+		{
+			"id": 3,
+			"title": "Ram",
+			"description": "React is simple",
+			"status": "Closed",
 			"severity": "Critical"
-    }
-  ]
+		}
+	]
 }
