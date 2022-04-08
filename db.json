@@ -28,9 +28,25 @@
 			"id": 4,
 			"description": "Page not found issue showing",
 			"status": "In Progress",
-			"severity": "Critical",
+			"severity": "Major",
       "createddate": "25/01/2022",
       "resolveddate": "09/02/2022"
+		},
+		{
+			"id": 5,
+			"description": "Wrong text showing",
+			"status": "In Progress",
+			"severity": "Minor",
+      "createddate": "14/01/2022",
+      "resolveddate": "19/02/2022"
+		},
+		{
+			"id": 6,
+			"description": "Server side error",
+			"status": "In Progress",
+			"severity": "Critical",
+      "createddate": "25/02/2022",
+      "resolveddate": "09/03/2022"
 		}
 	]
 }
